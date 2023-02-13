@@ -7,11 +7,12 @@ Projeto desenvolvido em Spring e Postgree com o objetivo de controlar um estacio
 
 
 
-![screenshot]("https://i.pinimg.com/236x/3f/b3/5e/3fb35e40e71805be97b5ab7c7265cac1.jpg ")
+![a3716d2c2ee5cd18e4cfee6e07b7d35f](https://user-images.githubusercontent.com/112403510/218349120-b96b7efb-85a8-43be-9443-780acc068767.gif)
 
 ## Tecnologias
 
-- HTML
-- CSS
-- Git and Github
+- Spring 2.7
+- Java 11
+- Maven
+- PostgreeSql
 
