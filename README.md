@@ -1,4 +1,4 @@
-<h1 style = "color:#D70E5A;" > Parking Control</h1>
+<h1 style=color:#BF0B57 > Parking Control </h1>
 
 ## Status - in development ⚠️
 
@@ -44,4 +44,4 @@ Spring dependencies:
 * colorCar
 * registration Date
 
-!([Projeto](https://i.imgur.com/29PN8k9.jpg))
+
