@@ -1,4 +1,4 @@
-<h1><span style="color= #990760"> Parking Control<span></h1>
+<h1> <span style="color= #990760"> Parking Control</span></h1>
 
 ## Status - in development ⚠️
 
