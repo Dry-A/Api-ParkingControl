@@ -1,4 +1,4 @@
-<h1> <span style="color= #990760"> Parking Control</span></h1>
+<h1 style="color:#D42075">  Parking Control</h1>
 
 ## Status - in development ⚠️
 
@@ -34,7 +34,7 @@ Spring dependencies: 🪁
 
 ![Projeto](https://user-images.githubusercontent.com/112403510/219226556-91021acb-d220-439a-9d90-4f7fb12b9667.jpg)
 
-### Some fields in  Parking Spot Model: 🚩
+<h3 style="color: #D42075"> Some fields in  Parking Spot Model: 🚩</h3>
 
 * id
 * parking Spot Number
@@ -47,6 +47,6 @@ Spring dependencies: 🪁
 ![19eb65a2d664ad012cf9057452a5e767](https://user-images.githubusercontent.com/112403510/219228627-ee57ab7e-79f3-4432-8bc2-79c414975d2d.gif)
 
 
-[Meus links](https://dry-a.github.io/meus-links/ "meus projetos")
+[Meus links para saber mais sobre mim: ](https://dry-a.github.io/meus-links/ "meus projetos")
 
 ![meus links](https://user-images.githubusercontent.com/112403510/219231731-5b57d2d8-06d2-43ad-a19e-a0331d0c7d47.png)
