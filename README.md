@@ -1,4 +1,4 @@
-<h1 style = "collor: red" > Parking Control</h1>
+<h1 style = "color:#D70E5A;" > Parking Control</h1>
 
 ## Status - in development ⚠️
 
