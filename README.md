@@ -11,9 +11,27 @@ Spring dependencies:
 * Data Jpa
 * Web Starter
 
-Maven
-Java version 11
-Spring version 2.7.8
+<table>
+<tr>
+
+<td>Maven</td>
+<td>Java</td>
+<td>Spring</td>
+<td>PostgreeSql</td>
+
+</tr>
+
+<tr>
+
+<td> </td>
+<td>11</td>
+<td>2.7.8</td>
+
+</tr>
+</table>
+
+
+Postgree
 
 [testando](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
